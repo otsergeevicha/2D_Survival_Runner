@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 9f3091325fc53d54a9962ecf1349154f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8259518264487913368
+    second: HitSamurai_0
+  - first:
+      213: 3850170190079340975
+    second: HitSamurai_1
+  - first:
+      213: 2618128099940887979
+    second: HitSamurai_2
+  - first:
+      213: 1045487918211548997
+    second: HitSamurai_3
+  - first:
+      213: -4588538754220680549
+    second: HitSamurai_4
+  - first:
+      213: 5929214721804624139
+    second: HitSamurai_5
+  - first:
+      213: -1183691610883482755
+    second: HitSamurai_6
+  - first:
+      213: 2504902145582692219
+    second: HitSamurai_7
+  - first:
+      213: -5265003469943513888
+    second: HitSamurai_8
+  - first:
+      213: -1597435214826284675
+    second: HitSamurai_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HitSamurai_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 454
+        width: 215
+        height: 236
+      alignment: 9
+      pivot: {x: 0.2434987, y: 0.07669985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868d85536eb406d80800000000000000
+      internalID: -8259518264487913368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 459
+        width: 220
+        height: 226
+      alignment: 9
+      pivot: {x: 0.20823476, y: 0.035968207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa13a78836d8e6530800000000000000
+      internalID: 3850170190079340975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 461
+        width: 215
+        height: 226
+      alignment: 9
+      pivot: {x: 0.22037154, y: 0.035968207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bade17da2a5755420800000000000000
+      internalID: 2618128099940887979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_3
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 455
+        width: 207
+        height: 226
+      alignment: 9
+      pivot: {x: 0.23795336, y: 0.039968576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54746fde8b1528e00800000000000000
+      internalID: 1045487918211548997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 82
+        width: 221
+        height: 227
+      alignment: 9
+      pivot: {x: 0.21160005, y: 0.03602113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a109c605c3250c0800000000000000
+      internalID: -4588538754220680549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 90
+        width: 221
+        height: 226
+      alignment: 9
+      pivot: {x: 0.23000863, y: 0.033967886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b016e2a006dc84250800000000000000
+      internalID: 5929214721804624139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_6
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 81
+        width: 217
+        height: 237
+      alignment: 9
+      pivot: {x: 0.24586311, y: 0.078486025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1ea950cea29fe0800000000000000
+      internalID: -1183691610883482755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 465
+        width: 221
+        height: 225
+      alignment: 9
+      pivot: {x: 0.23205414, y: 0.027878825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77f198da3333c220800000000000000
+      internalID: 2504902145582692219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 76
+        width: 206
+        height: 225
+      alignment: 9
+      pivot: {x: 0.24106964, y: 0.03792382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec51d04d33fee6b0800000000000000
+      internalID: -5265003469943513888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HitSamurai_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 80
+        width: 214
+        height: 225
+      alignment: 9
+      pivot: {x: 0.2169526, y: 0.035914883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79549cb225c4d9e0800000000000000
+      internalID: -1597435214826284675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
